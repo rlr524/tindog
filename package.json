@@ -4,7 +4,7 @@
   "description": "Tindog app",
   "main": "index.html",
   "devDependencies": {
-    "eslint": "^6.8.0"
+    "eslint": "^10.8.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
